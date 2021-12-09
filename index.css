@@ -1,0 +1,19 @@
+body{
+    background-color: #222831;
+    width: 30%;
+    margin-left: 38%;
+}
+.system{
+    color: greenyellow;
+    font-size: 30px;
+}
+.lottery{
+    color: greenyellow;
+    font-size: 20px;
+}
+button{
+    background-color: black;
+    color: azure;
+    border: 2px green solid;
+    margin: 5px 5px 5px 0;
+}
